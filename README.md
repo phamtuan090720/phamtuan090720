@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @phamtuan090720
-- 👀 I’m interested in ... Reactjs
-- 🌱 I’m currently learning ...Information Technology at Open University!
+- 👀 I’m interested in ... Reactjs,Nodejs
+- 🌱 I’m currently learning ...Information Technology at Ho Chi Minhh Open University!
 - 📫 How to reach me ...Contact me by email mr.tuan1749@gmail.com.
