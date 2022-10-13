@@ -24,9 +24,6 @@ Hello, I'm Pham Tuan , I want to become fullstack developer 🖤
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 
-### My Hobbies
-
-
 ### 📚 Github Status
 
 <p>
