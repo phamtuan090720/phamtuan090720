@@ -1,13 +1,13 @@
 # About me
 
 ```javascript
-Hello, I'm Ares , I want to become web developer 🖤🖤🖤
+Hello, I'm Pham Tuan , I want to become fullstack developer 🖤
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phutran1210dev">
-  <img src="https://shields.io/github/stars/phutran1210dev">
-  <img src="https://img.shields.io/github/followers/phutran1210dev">
+  <img src="https://komarev.com/ghpvc/?username=phamtuan090720">
+  <img src="https://shields.io/github/stars/phamtuan090720">
+  <img src="https://img.shields.io/github/followers/phamtuan090720">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
 </p>
 
@@ -36,6 +36,6 @@ Hello, I'm Ares , I want to become web developer 🖤🖤🖤
 
 
 ### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phutran1210dev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tranphu1210/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phamtuan090720)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006955065822)
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanpham0907/)
