@@ -6,7 +6,7 @@ Hello, I'm Pham Tuan , I want to become fullstack developer 🖤🖤🖤
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phamtuan090720">
-  <img src="https://shields.io/github/stars/phutran1210dev">
+  <img src="https://shields.io/github/stars/phamtuan090720">
   <img src="https://img.shields.io/github/followers/phamtuan090720">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=red">
 </p>
