@@ -38,7 +38,7 @@ Hello, I'm Pham Tuan , I want to become fullstack developer 🖤🖤🖤
 ### 📚 Github Status
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtuan090720&layout=compact&theme=tokyonight&langs_count=8" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtuan090720&layout=compact&theme=tokyonight&langs_count=6" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=phamtuan090720&show_icons=true&theme=tokyonight" height="200">
 </p>
 
