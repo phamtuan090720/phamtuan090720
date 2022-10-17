@@ -24,7 +24,7 @@ Hello, I'm Pham Tuan , I want to become fullstack developer 🖤🖤🖤
 ![JWS](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-%230db7ed?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
