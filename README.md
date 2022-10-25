@@ -1,7 +1,9 @@
-# About me
+<h1 align="center">Hi 👋, I'm Pham Tuan </h1>
+
+### About me
 
 ```javascript
-Hello, I'm Pham Tuan , I want to become fullstack developer 🖤🖤🖤
+I want to become fullstack developer 🖤🖤🖤
 ```
 
 <p align="center">
