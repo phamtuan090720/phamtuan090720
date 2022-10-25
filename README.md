@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pham Tuan </h1>
 
+<div style="
+    align-items: center;
+    display: flex;
+    justify-content: center;
+">
+<img align="center" width="600" alt="phamtuan090720" src="./typing.gif" />
+</div>
+
+
 ### About me
 
 ```javascript
