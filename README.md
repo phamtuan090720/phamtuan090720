@@ -8,7 +8,7 @@
 ### About me
 
 ```javascript
-I want to become fullstack developer 🖤🖤🖤
+I want to become fullstack developer
 ```
 
 <p align="center">
